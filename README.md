@@ -9,34 +9,33 @@
 http://0.0.0.0:9001/v1/gadgetscore/Iphone
 
 sample: Top 5 locations
-<show-json json='
-[
-    {
-        "location": "USA",
-        "name": "Iphone",
-        "score": 300
-    },
-    {
-        "location": "Unknown",
-        "name": "Iphone",
-        "score": 99
-    },
-    {
-        "location": "China",
-        "name": "Iphone",
-        "score": 9
-    },
-    {
-        "location": "California, USA",
-        "name": "Iphone",
-        "score": 8
-    },
-    {
-        "location": "Austin, TX",
-        "name": "Iphone",
-        "score": 6
-    }
 
-]
-'/>
+[  
+    {  
+        "location": "USA",  
+        "name": "Iphone",  
+        "score": 300  
+    },  
+    {  
+        "location": "Unknown",  
+        "name": "Iphone",  
+        "score": 99  
+    },  
+    {  
+        "location": "China",  
+        "name": "Iphone",  
+        "score": 9  
+    },  
+    {  
+        "location": "California, USA",  
+        "name": "Iphone",  
+        "score": 8  
+    },  
+    {  
+        "location": "Austin, TX",  
+        "name": "Iphone",  
+        "score": 6  
+    }  
+
+]  
 
