@@ -9,6 +9,7 @@
 http://0.0.0.0:9001/v1/gadgetscore/Iphone
 
 sample: Top 5 locations
+'''
 [
     {
         "location": "USA",
@@ -37,5 +38,5 @@ sample: Top 5 locations
     }
 
 ]
-
+'''
 
