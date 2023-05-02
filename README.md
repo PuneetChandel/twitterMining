@@ -8,7 +8,7 @@
 6. To get top 5 locations for Iphone tweets:
 http://0.0.0.0:9001/v1/gadgetscore/Iphone
 
-update 1 from contributor
+update 1 from contributor v2
 
 sample: Top 5 locations 
 
